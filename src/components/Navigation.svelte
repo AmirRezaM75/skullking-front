@@ -16,7 +16,7 @@
 	<div class="inner">
 		<div class="left">
 			<a href="/">Home</a>
-			<a href="https://github.com/AmirRezaM75/skull-king" target="_blank">Github</a>
+			<a href="https://github.com/AmirRezaM75/skullking" target="_blank">Github</a>
 			<a href="https://youtu.be/MOC6pa87pis?t=126" target="_blank">Tutorial</a>
 			<a href="https://zarinp.al/@amirrezam75" class="" target="_blank">Donate</a>
 		</div>
